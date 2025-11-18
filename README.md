@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do CoutinhoDL
+## Bem-vindo(a) ao meu perfil, sou Gabriel Coutinho de Lima
 
  <div>
    <a href="https://github.com/gabrielcoutinhoDL">
