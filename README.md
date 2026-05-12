@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Gabriel Coutinho de Lima 👋
+# Olá, eu sou Gabriel Coutinho de Lima 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -8,16 +8,16 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 💡 Apaixonado por desenvolvimento web e automação
-- 📚 Sempre estudando novas tecnologias
-- 🎯 Focado em construir soluções que fazem diferença
-- 📬 Me encontre em: **gabriel.coutinho0119@gmail.com**
+- Apaixonado por desenvolvimento web e automação
+- Sempre estudando novas tecnologias
+- Focado em construir soluções que fazem diferença
+- Me encontre em: **gabriel.coutinho0119@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-💻 *Siga para conteúdo sobre programação e tecnologia!*
+*Siga para conteúdo sobre programação e tecnologia!*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gabrielcoutinhoDL&color=39d353&style=flat-square&label=Visitantes)
 
