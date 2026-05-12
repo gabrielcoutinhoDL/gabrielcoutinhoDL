@@ -2,8 +2,6 @@
 
 # Olá, eu sou Gabriel Coutinho de Lima 👋
 
-### Desenvolvedor apaixonado por tecnologia e soluções criativas
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
