@@ -12,7 +12,7 @@
 
 - Sempre estudando novas tecnologias
 - Focado em construir soluções que fazem diferença
-- Me encontre no Insta: **gabrielcoutinholm**
+- Me encontre no Insta: **@gabrielcoutinholm**
 
 ---
 
