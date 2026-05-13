@@ -10,10 +10,9 @@
 
 ## Sobre mim
 
-- Apaixonado por desenvolvimento web e automação
 - Sempre estudando novas tecnologias
 - Focado em construir soluções que fazem diferença
-- Me encontre em: **gabriel.coutinho0119@gmail.com**
+- Me encontre no Insta: **gabrielcoutinholm**
 
 ---
 
