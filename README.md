@@ -12,6 +12,7 @@
 
 - Sempre estudando novas tecnologias
 - Focado em construir soluções que fazem diferença
+- Desenvolvendo aplicações web e mobile com Flutter e Flask
 - Me encontre no Insta: **@gabrielcoutinholm**
 
 ---
@@ -26,11 +27,16 @@
 <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+<img alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
 ### Backend & Banco de Dados
 <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+<img alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
+### Linguagens Mobile
+<img alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 
 </div>
 
