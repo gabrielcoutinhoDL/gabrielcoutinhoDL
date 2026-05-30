@@ -45,11 +45,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcoutinhoDL&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoutinhoDL&layout=compact&langs_count=6&theme=merko&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcoutinhoDL&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </div>
 
