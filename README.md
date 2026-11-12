@@ -26,18 +26,6 @@ Sou desenvolvedor Full Stack e o primeiro dev de sistemas da empresa onde trabal
 
 ---
 
-## 🚀 O que já está rodando
-
-| Projeto | O que resolve | Stack | Status |
-|---|---|---|---|
-| **Sistema de Almoxarifado** | Controle de estoque, entradas/saídas, empréstimos de ferramentas e termos em PDF gerados automaticamente | Apps Script · JavaScript · Google Sheets | 🟢 Em produção |
-| **Controle de Frota & Obras** | Gestão de caminhões, máquinas, mobilizações, despesas e lucro líquido por obra | Apps Script · JavaScript · Google Sheets | 🟡 Beta |
-| **Fluire** | Aplicação SaaS full stack com API REST e autenticação | Python · Flask · PostgreSQL · JWT · React · Vite | 🔵 Em desenvolvimento |
-
-<!-- Dica: quando algum repositório for público, transforme o nome do projeto em link: [**Fluire**](https://github.com/gabrielcoutinhoDL/NOME-DO-REPO) -->
-
----
-
 ## 🧠 Como eu trabalho
 
 ```python
