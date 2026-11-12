@@ -12,21 +12,21 @@
 
 ---
 
-## 🎯 Para o que eu vim
+##  Para o que eu vim
 
 > **Eu transformo processos manuais, planilhas soltas e retrabalho em sistemas web simples, seguros e que rodam em produção.**
 
 Sou desenvolvedor Full Stack e o primeiro dev de sistemas da empresa onde trabalho. Comecei na operação — caminhões, peças, estoque — e foi justamente vendo os problemas de perto que passei a construir as soluções. Hoje entrego software que pessoas reais usam todo dia para controlar estoque, frota e custos de obra.
 
-- 🧩 **Resolvo dor de negócio**, não só escrevo código
-- 🏗️ **Do levantamento ao deploy**: requisitos, banco, API, interface e testes
-- 🔒 **Segurança desde o início**: autenticação JWT, validação de inputs, prevenção de XSS/SQLi e atenção à LGPD
-- 🤖 **IA no fluxo de trabalho**: uso agentes de IA para acelerar o desenvolvimento sem abrir mão da revisão
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** e estudando **Machine Learning**
+-  **Resolvo dor de negócio**, não só escrevo código
+-  **Do levantamento ao deploy**: requisitos, banco, API, interface e testes
+-  **Segurança desde o início**: autenticação JWT, validação de inputs, prevenção de XSS/SQLi e atenção à LGPD
+-  **IA no fluxo de trabalho**: uso agentes de IA para acelerar o desenvolvimento sem abrir mão da revisão
+-  Cursando **Análise e Desenvolvimento de Sistemas** e estudando **Machine Learning**
 
 ---
 
-## 🧠 Como eu trabalho
+##  Como eu trabalho
 
 ```python
 class GabrielCoutinho:
@@ -62,7 +62,7 @@ class GabrielCoutinho:
 
 ---
 
-## 📊 Atividade no GitHub
+##  Atividade no GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=gabrielcoutinhoDL&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub Streak"/>
@@ -70,7 +70,7 @@ class GabrielCoutinho:
 
 ---
 
-## 🤝 Vamos conversar?
+##  Vamos conversar?
 
 Tem um processo manual que consome horas da sua equipe ou uma ideia de sistema? **Me chama no [LinkedIn](https://www.linkedin.com/in/gabriel-coutinho-974864311/) ou por [e-mail](mailto:gabriel.coutinho0119@gmail.com).**
 
